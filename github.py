@@ -9,6 +9,8 @@ elif num==2:
     print("martes")
 elif num==3:
     print("miercoles")    
+elif num==4:
+    print("jueves")  
 else:
     print("")
 
